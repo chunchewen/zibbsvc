@@ -18,9 +18,13 @@ This repository includes R code to simulate the Zero-Inflated Beta-Binomial Spat
 
 # Parameters
   - Alpha: Fixed effect in the binary component.
+    
   - Beta: Fixed effect in the Beta-Binomial (BB) component.
+    
   - Rho: Correlation parameter.
+    
   - phi1 - phi8: Spatial random effects (8n x 1) vector.
+    
   - Sigma_phi: 8 x 8 matrix of spatial random effect variance-covariance.
 
 
