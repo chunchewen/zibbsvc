@@ -113,7 +113,7 @@
   #-------------------#
   
   # dir.sav<-"...\\"
-  # load(file=paste(dir.sav,"Simulation-ZIBBSVC.Rda",sep=""))           # Load MCMC samples
+  # load(file=paste(dir.sav,"Simulation-MCMCSampler.Rda",sep=""))           # Load MCMC samples
   Alpha<-samples$Alpha
   Beta<-samples$Beta
   Rho<-samples$Rho
