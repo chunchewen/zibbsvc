@@ -16,9 +16,9 @@ Note: The SC_SVI.csv file contains the Social Vulnerability Index (SVI) for each
 ## Simulation
  - Simulation-ZIBBSVC.R: Generates simulation data using the MCMC algorithm, calculates WAIC, and creates trace plots.
 
- - Make Plot.R: Creates plots for the manuscript.
-
  - Simulation-ZIBBSVC.Rda: Contains the MCMC samples from the Simulation-ZIBBSVC.R script.
+
+ - Make Plot.R: Creates plots for the manuscript.
 
 ## Synthetic 
 
