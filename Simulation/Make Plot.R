@@ -1,6 +1,6 @@
   # Make Figures
   # Import: MCMC Samples from Simulation-ZIBBSVC.R
-  # File: Simulation-ZIBBSVC.Rda 
+  # File: Simulation-MCMCSampler.Rda 
   # Date: 10-22-2024
   #------------------------------------------------------------------------------#
   library(aod)
