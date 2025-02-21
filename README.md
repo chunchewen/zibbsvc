@@ -18,14 +18,16 @@ Note: The SC_SVI.csv file contains the Social Vulnerability Index (SVI) for each
 
  - Simulation-MCMCSampler.Rda: Contains the MCMC samples from the Simulation-ZIBBSVC.R script.
 
- - Make Plot.R: Creates plots for the manuscript.
-
+ - Make Plot.R: Generates plots for the simulation section of the manuscript.
+  
 ## Synthetic 
  - Synthetic-CRF-Data.Rda: Synthetic version of the South Carolina (SC) prenatal data.
 
  - Synthetic-ZIBBSVC.R Fit ZIBB-SVC model to the synthetic dataset
 
- - Synthetic-MCMCSample.Rda: Contains the MCMC samples from the Synthetic-ZIBBSVC.R script.   
+ - Synthetic-MCMCSampler.Rda: Contains the MCMC samples from the Synthetic-ZIBBSVC.R script.
+
+ - Make Plot.R: Generates plots for the analysis section of the manuscript. However, the results, such as the maps and trend plots, may differ due to the use of synthetic data.
 
 ## SC Info
 
